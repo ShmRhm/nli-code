@@ -13,3 +13,5 @@ The analysis in this work is based on two licensed datasets:
 **Note:** As these datasets are licensed, they cannot be shared publicly. Only summaries, visualizations, and analyses are included here, with no direct access to the raw data.
 
 The [`Data_Description.ipynb`](./Data_Description.ipynb) notebook is the first step in exploring various features of the ICLEv3 dataset.
+
+The **Logistic Regression** Notebooks focus on training and evaluating logistic regression models using various features on the TOEFL and ICLE corpora. In the [`Logistic_Regression_TOEFL.ipynb`](./Logistic_Regression_TOEFL.ipynb) notebook, the model is trained on the TOEFL dataset and tested on both the TOEFL and ICLE datasets. In the [`Logistic_Regression_ICLE.ipynb`](./Logistic_Regression_ICLE.ipynb) notebook, the model is trained on a subset of the ICLEv3 dataset and tested on both the ICLE and TOEFL datasets.
